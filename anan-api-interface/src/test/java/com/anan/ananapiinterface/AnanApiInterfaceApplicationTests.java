@@ -1,10 +1,10 @@
-package com.anan.ananapisdk;
+package com.anan.ananapiinterface;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class AnanApiSdkApplicationTests {
+class AnanApiInterfaceApplicationTests {
 
     @Test
     void contextLoads() {

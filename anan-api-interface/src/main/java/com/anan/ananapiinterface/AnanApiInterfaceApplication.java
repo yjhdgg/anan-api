@@ -1,13 +1,13 @@
-package com.anan.ananapisdk;
+package com.anan.ananapiinterface;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class AnanApiSdkApplication {
+public class AnanApiInterfaceApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(AnanApiSdkApplication.class, args);
+        SpringApplication.run(AnanApiInterfaceApplication.class, args);
     }
 
 }
